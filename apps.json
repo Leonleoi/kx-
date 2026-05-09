@@ -23,6 +23,24 @@
           "size": 73611
         }
       ]
+    },
+    {
+      "name": "欢乐斗地主",
+      "bundleIdentifier": "com.leonleoi.doudizhu",
+      "developerName": "kx",
+      "subtitle": "无限金币钻石版",
+      "localizedDescription": "欢乐斗地主 7.7 版本，无限金币无限钻石",
+      "iconURL": "https://raw.githubusercontent.com/Leonleoi/kx-/main/d05d7a0d40f3e19891afa045b766e0d7.jpg",
+      "tintColor": "F59E0B",
+      "versions": [
+        {
+          "version": "7.7",
+          "date": "2026-05-08",
+          "localizedDescription": "无限金币钻石版",
+          "downloadURL": "https://raw.githubusercontent.com/Leonleoi/kx-/main/欢乐斗地主_7.7_无限金币砖石.ipa",
+          "size": 0
+        }
+      ]
     }
   ]
 }
