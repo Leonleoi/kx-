@@ -19,7 +19,7 @@
           "version": "1.0",
           "date": "2026-05-08",
           "localizedDescription": "首个版本",
-          "downloadURL": "https://raw.githubusercontent.com/Leonleoi/kx-/main/Calculator-unsigned.ipa",
+          "downloadURL": "https://github.com/Leonleoi/kx-/releases/download/v1.0/Calculator-unsigned.ipa",
           "size": 73611
         }
       ]
@@ -37,7 +37,7 @@
           "version": "7.7",
           "date": "2026-05-08",
           "localizedDescription": "无限金币钻石版",
-          "downloadURL": "https://raw.githubusercontent.com/Leonleoi/kx-/main/doudizhu.ipa",
+          "downloadURL": "https://github.com/Leonleoi/kx-/releases/download/v1.0/doudizhu.ipa",
           "size": 86199354
         }
       ]
