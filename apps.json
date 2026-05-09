@@ -2,7 +2,6 @@
   "name": "kx 的软件源",
   "subtitle": "个人收集的 iOS 应用",
   "description": "这是我的个人 AltStore 软件源，会持续更新",
-  "iconURL": "https://raw.githubusercontent.com/Leonleoi/kx-/main/icon.png",
   "website": "https://github.com/Leonleoi/kx-",
   "tintColor": "3B82F6",
   "apps": [
@@ -12,7 +11,6 @@
       "developerName": "kx",
       "subtitle": "计算器应用",
       "localizedDescription": "一个简洁好用的计算器应用",
-      "iconURL": "https://raw.githubusercontent.com/Leonleoi/kx-/main/icon.png",
       "tintColor": "10B981",
       "versions": [
         {
@@ -20,7 +18,7 @@
           "date": "2026-05-08",
           "localizedDescription": "首个版本",
           "downloadURL": "https://raw.githubusercontent.com/Leonleoi/kx-/main/Calculator-unsigned.ipa",
-          "size": 5000000
+          "size": 73611
         }
       ]
     }
