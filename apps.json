@@ -1,0 +1,28 @@
+{
+  "name": "我的软件源",
+  "subtitle": "个人收集的 iOS 应用",
+  "description": "这是我的个人altstore软件源，会持续更新",
+  "iconURL": "https://raw.githubusercontent.com/你的GitHub用户名/AltStore-Source/main/icon.png",
+  "website": "https://github.com/Leonleoi/AltStore-Source",
+  "tintColor": "3B82F6",
+  "apps": [
+    {
+      "name": "你的第一个应用",
+      "bundleIdentifier": "com.example.myapp",
+      "developerName": "你的名字",
+      "subtitle": "简短描述",
+      "localizedDescription": "这里是应用的详细介绍…",
+      "iconURL": "https://raw.githubusercontent.com/你的GitHub用户名/AltStore-Source/main/app1-icon.png",
+      "tintColor": "10B981",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-05-08",
+          "localizedDescription": "首个版本",
+          "downloadURL": "https://raw.githubusercontent.com/你的GitHub用户名/AltStore-Source/main/app1.ipa",
+          "size": 1048576
+        }
+      ]
+    }
+  ]
+}
