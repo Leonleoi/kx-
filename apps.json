@@ -2,6 +2,7 @@
   "name": "kx 的软件源",
   "subtitle": "个人收集的 iOS 应用",
   "description": "这是我的个人 AltStore 软件源，会持续更新",
+  "iconURL": "https://raw.githubusercontent.com/Leonleoi/kx-/main/d05d7a0d40f3e19891afa045b766e0d7.jpg",
   "website": "https://github.com/Leonleoi/kx-",
   "tintColor": "3B82F6",
   "apps": [
@@ -11,6 +12,7 @@
       "developerName": "kx",
       "subtitle": "计算器应用",
       "localizedDescription": "一个简洁好用的计算器应用",
+      "iconURL": "https://raw.githubusercontent.com/Leonleoi/kx-/main/d05d7a0d40f3e19891afa045b766e0d7.jpg",
       "tintColor": "10B981",
       "versions": [
         {
